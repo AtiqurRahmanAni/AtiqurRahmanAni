@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @AtiqurRahmanAni
+- 👀 I’m interested in programming, robotics, electronics.
+- 🌱 I’m currently learning JavaScript

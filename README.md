@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @AtiqurRahmanAni
 - 👀 I’m interested in programming, robotics, electronics.
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning PHP

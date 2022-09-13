@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atiqurrahmanani&label=Profile%20views&color=0e75b6&style=flat" alt="atiqurrahmanani" /> </p>
 
 
-- 🔭 I’m currently working on **machine learning**
+- 🔭 I’m currently working on **NLP**
 
 - 🌱 I’m currently learning **Python, Machine Learning, Raspberry Pi Pico Programming**
 

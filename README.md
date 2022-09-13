@@ -10,13 +10,13 @@
 
 - 🌱 I’m currently learning **Python, Machine Learning, Raspberry Pi Pico Programming**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AtiqurRahmanAni](https://github.com/AtiqurRahmanAni)
-
-- 📽️ My YouTube channel [https://www.youtube.com/channel/UC_87uQgmvAlbjmnIZcCIe_w]
-
 - 💬 Ask me about **C, C++, C#, Arduino, Robotics**
 
 - 📫 How to reach me **ani.atikur99@gmail.com**
+
+- 👨‍💻 All of my projects are available at [https://github.com/AtiqurRahmanAni](https://github.com/AtiqurRahmanAni)
+
+- 📽️ My YouTube channel [https://www.youtube.com/channel/UC_87uQgmvAlbjmnIZcCIe_w]
 
 - 📄 My resume [https://drive.google.com/file/d/1j8pKLLRkGNBpcBl8D_RB5MkxYioIetil/view?usp=sharing](https://drive.google.com/file/d/1j8pKLLRkGNBpcBl8D_RB5MkxYioIetil/view?usp=sharing)
 

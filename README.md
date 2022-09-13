@@ -12,6 +12,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AtiqurRahmanAni](https://github.com/AtiqurRahmanAni)
 
+- 📽️ My YouTube channel [https://www.youtube.com/channel/UC_87uQgmvAlbjmnIZcCIe_w]
+
 - 💬 Ask me about **C, C++, C#, Arduino, Robotics**
 
 - 📫 How to reach me **ani.atikur99@gmail.com**

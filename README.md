@@ -14,11 +14,11 @@
 
 - 📫 How to reach me **ani.atikur99@gmail.com**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AtiqurRahmanAni](https://github.com/AtiqurRahmanAni)
+- 👨‍💻 All of my projects are available at [Click](https://github.com/AtiqurRahmanAni)
 
-- 📽️ My YouTube channel https://www.youtube.com/channel/UC_87uQgmvAlbjmnIZcCIe_w
+- 📽️ My YouTube channel [Click](https://www.youtube.com/channel/UC_87uQgmvAlbjmnIZcCIe_w)
 
-- 📄 My resume [Link](https://drive.google.com/file/d/1j8pKLLRkGNBpcBl8D_RB5MkxYioIetil/view?usp=sharing)
+- 📄 My resume [Click](https://drive.google.com/file/d/1j8pKLLRkGNBpcBl8D_RB5MkxYioIetil/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

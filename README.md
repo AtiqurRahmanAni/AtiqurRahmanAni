@@ -45,7 +45,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atiqurrahmanani&show_icons=true&locale=en&layout=compact" alt="atiqurrahmanani" /></p>
-<br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=atiqurrahmanani&show_icons=true&locale=en" alt="atiqurrahmanani" /></p>
+
+<!---<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=atiqurrahmanani&show_icons=true&locale=en" alt="atiqurrahmanani" /></p>--->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atiqurrahmanani&" alt="atiqurrahmanani" /></p>

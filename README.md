@@ -33,3 +33,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atiqurrahmanani&show_icons=true&locale=en" alt="atiqurrahmanani" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atiqurrahmanani&" alt="atiqurrahmanani" /></p>
+
+<h3 align="left">YouTube Videos:</h3>
+
+<a href="https://youtu.be/fkcC4ygjQmU"
+   target="_blank"><img src="http://img.youtube.com/vi/fkcC4ygjQmU/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>

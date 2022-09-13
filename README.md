@@ -45,8 +45,11 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
+<div style="display: flex;flex-direction: column">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atiqurrahmanani&show_icons=true&theme=dark&locale=en&layout=compact" alt="atiqurrahmanani" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=atiqurrahmanani&show_icons=true&theme=dark&locale=en" alt="atiqurrahmanani" /></p>
+   
+</div>
 
 <!---<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atiqurrahmanani&" alt="atiqurrahmanani" /></p>--->

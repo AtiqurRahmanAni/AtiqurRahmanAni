@@ -6,9 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atiqurrahmanani&label=Profile%20views&color=0e75b6&style=flat" alt="atiqurrahmanani" /> </p>
 
 
-- 🔭 I’m currently working on **NLP**
+<!-- - 🔭 I’m currently working on **** -->
 
-- 🌱 I’m currently learning **Python, Machine Learning, Raspberry Pi Pico Programming**
+- 🌱 I’m currently learning **Django, REST_API**
 
 - 💬 Ask me about **C, C++, C#, Arduino, Robotics**
 

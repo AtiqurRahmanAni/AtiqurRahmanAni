@@ -20,6 +20,8 @@
 
 - 📄 My resume [Click](https://drive.google.com/file/d/1RjLBWgzDAKAxgwjmSjjsYRFh_1qMPApv/view?usp=drive_link)
 
+- 🙍‍♂️ My portfolio [Click](https://portfolio-atiqur-rahman.vercel.app/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.facebook.com/profile.php?id=100004370326000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100004370326000" height="30" width="40" /></a>

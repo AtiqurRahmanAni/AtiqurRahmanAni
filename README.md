@@ -18,7 +18,7 @@
 
 - 📽️ My YouTube channel [Click](https://www.youtube.com/channel/UC_87uQgmvAlbjmnIZcCIe_w)
 
-- 📄 My resume [Click](https://drive.google.com/file/d/1RMZCeMbTh6w5XsUYjBJyoudBann2EzYG/view?usp=sharing)
+- 📄 My resume [Click](https://drive.google.com/file/d/1RjLBWgzDAKAxgwjmSjjsYRFh_1qMPApv/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

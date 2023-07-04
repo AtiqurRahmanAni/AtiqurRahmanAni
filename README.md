@@ -20,7 +20,7 @@
 
 - 📄 My resume [Click](https://drive.google.com/file/d/1RjLBWgzDAKAxgwjmSjjsYRFh_1qMPApv/view?usp=drive_link)
 
-- 🙍‍♂️ My portfolio [Click](https://portfolio-atiqur-rahman.vercel.app/)
+- 🙍‍♂️ My portfolio [Click](https://atiqurrahmanani.github.io/portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

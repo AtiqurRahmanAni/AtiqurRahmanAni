@@ -8,7 +8,7 @@
 
 <!-- - 🔭 I’m currently working on **** -->
 
-- 🌱 I’m currently learning **Django, REST_API**
+- 🌱 I’m currently learning **Django, REST_API, NEXT.js**
 
 - 💬 Ask me about **C, C++, C#, Arduino, Robotics**
 

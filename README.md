@@ -8,9 +8,9 @@
 
 <!-- - 🔭 I’m currently working on **** -->
 
-- 🌱 I’m currently learning **Django, REST_API, NEXT.js**
+- 🌱 I’m currently diving deeper into **AI**
 
-- 💬 Ask me about **C, C++, C#, Arduino, Robotics**
+- 💬 Ask me about **C, C++, JavaScript, Python, Embedded System, Robotics and AI**
 
 - 📫 How to reach me **ani.atikur99@gmail.com**
 
@@ -18,9 +18,9 @@
 
 - 📽️ My YouTube channel [Click](https://www.youtube.com/channel/UC_87uQgmvAlbjmnIZcCIe_w)
 
-- 📄 My resume [Click](https://drive.google.com/file/d/1RjLBWgzDAKAxgwjmSjjsYRFh_1qMPApv/view?usp=drive_link)
+- 📄 My CV [Click](https://drive.google.com/file/d/1Vx5F6Iai9h_KZ7X0vdGvPvfaUtR6Wgrx/view)
 
-- 🙍‍♂️ My portfolio [Click](https://atiqurrahmanani.github.io/portfolio/)
+- 🙍‍♂️ My portfolio [Click](https://atiqurrahmanani.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -35,7 +35,7 @@
 
 <h3 align="left">YouTube Videos:</h3>
 
-<a href="https://youtu.be/_J3AWlX1bZGZY36B"
+<a href="https://youtu.be/doNflwl3nys?si=NdRvBH4mM7X19Iht"
    target="_blank"><img src="https://i.ytimg.com/vi/doNflwl3nys/0.jpg" 
    alt="Connectly" width="240" height="180" border="10" />
 <a href="https://youtu.be/fkcC4ygjQmU"

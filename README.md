@@ -1,6 +1,6 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
 <h1 align="center">Hi 👋, I'm Md. Atiqur Rahman</h1>
-<h3 align="center">I am a junior Python developer at <a href="https://www.filerskeepers.co" target="_blank">filerskeepers</a>. Currently working as a Part-time lecturer at Ahsanullah University of Science and Technology (AUST). I am keen to pursue a career as a professional programmer.</h3>
+<h3 align="center">I am a junior Python developer at <a href="https://www.filerskeepers.co" target="_blank">filerskeepers</a>. Also working as a Part-time lecturer at Ahsanullah University of Science and Technology (AUST). I am keen to pursue a career as a professional programmer.</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/AtiqurRahmanAni/AtiqurRahmanAni/assets/56642339/2632cd0c-17db-4e80-8051-01ffa7e55444">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atiqurrahmanani&label=Profile%20views&color=0e75b6&style=flat" alt="atiqurrahmanani" /> </p>
